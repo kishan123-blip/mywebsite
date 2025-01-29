@@ -1,0 +1,39 @@
+body {
+    front-family:Arial, sans-serif;
+margin: 0;
+padding: 0;
+background-color: #f4f4f9;
+}
+
+header
+ {background-color: #007bff;
+color: white;
+text-align: centre;
+padding: lrem 0;
+}
+
+main {
+    padding: 2rem;
+    text-align: centre;
+}
+
+button{
+    background-color: #oo7bff
+    color: White;
+    border: none;
+    padding: 10px 20px;
+    front-size:lrem;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+footer {
+    text-align: centre;
+    padding: lrem;
+    background-color: #333;
+    color: white;
+}
